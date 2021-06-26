@@ -61,4 +61,4 @@ Ada grad	0.833	46.667
 Ada max	63.33	75.5
 RMSprop	100	95.833
  
-
+I have also done done for MNIST dataset.
